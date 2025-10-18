@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // export const TMDB_CONFIG={
 //     BASE_URL : "https://api.themoviedb.org/3",
 //     API_KEY : process.env.EXPO_TMDB_HEADER,
@@ -52,6 +53,8 @@ export const fetchTrendingMovies = async () => {
 };
 
 
+=======
+>>>>>>> 270cfda9cd7236ee667670c2afb3ce7f3e442092
 // const url = 'https://api.themoviedb.org/3/trending/movie/day?language=en-US';
 // const options = {
 //   method: 'GET',
@@ -64,4 +67,8 @@ export const fetchTrendingMovies = async () => {
 // fetch(url, options)
 //   .then(res => res.json())
 //   .then(json => console.log(json))
+<<<<<<< HEAD
 //   .catch(err => console.error(err));
+=======
+//   .catch(err => console.error(err));
+>>>>>>> 270cfda9cd7236ee667670c2afb3ce7f3e442092
